@@ -32,7 +32,7 @@ O(n^2)
 
 18, dizi sıralandıktan sonra tam ortadaki eleman olduğundan **average case** olacaktır.
 
-## [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+## Soru 2: [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
 Selection sort yani seçmeli sıralamada, dizideki elemanlara sırasıyla bakılır, en küçük olanı tespit eder ve onu en başa alıp baştaki elemanı da onun yerine yazar.
 
